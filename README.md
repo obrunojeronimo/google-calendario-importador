@@ -1,5 +1,3 @@
-# google-calendario-importador
-
 # Importador de Eventos da Google Agenda para Planilhas Google
 
 Este projeto utiliza Google Apps Script para automatizar a importação de eventos da Google Agenda para uma planilha do Google Sheets.
